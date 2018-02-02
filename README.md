@@ -1,4 +1,3 @@
 # programming-challenges-v.14
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-
+![Image](https://github.com/CarlosTDR/programming-challenges-v.14/blob/master/programmingChallengesv14.jpg?raw=true)
